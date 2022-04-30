@@ -8,7 +8,7 @@
     <a href="https://github.com/surajgupta3072/"><img src="https://img.shields.io/github/followers/surajgupta3072?style=social"/></a>
     <a href="https://github.com/surajgupta3072?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 <!--     <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/> -->
-    <a href="https://surajgupta3072.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fsurajgupta3072.github.io%2F"/></a>
+    <a href="https://surajgupta3072.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
 </p>
 
 
