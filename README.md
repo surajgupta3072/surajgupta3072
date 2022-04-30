@@ -71,10 +71,9 @@ I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack develope
 <div>
   <h3 align="center">Connect with me</h3>
   <p align="center">
-    <a href= "https://www.linkedin.com/in/praneeth-/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/linkedin.png" height="50" /></a>
-    <!-- <a href= "https://medium.com/@praneeth.kolanu.iitkgp"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/medium-new.png"/></a> -->
-    <a href= "mailto:praneeth.kolanu.iitkgp@gmail.com"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/email.png" height="50" /></a>
-    <a href= "https://www.facebook.com/praneeth.reddy.3557440/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/facebook.png" height="50" /></a>
-    <a href= "https://instagram.com/praneeth__rdy"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/instagram.png" height="50" /></a>
+    <a href= "https://www.linkedin.com/in/suraj-gupta-457496201"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/linkedin.png" height="50" /></a>
+    <!-- <a href= "https://medium.com/@surajgupta.3072"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/medium-new.png"/></a> -->
+    <a href= "mailto:surajgupta.3072@gmail.com"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/email.png" height="50" /></a>
+    <a href= "https://www.facebook.com/profile.php?id=100057206746965"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/facebook.png" height="50" /></a>
   </p>
 </div>
