@@ -29,7 +29,7 @@ I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack develope
   <!-- <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/> -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   <!-- <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/> -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+<!--   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/> -->
 <!--   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/> -->
 <!--   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/> -->
   
