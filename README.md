@@ -5,10 +5,10 @@
 <p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=praneeth-rdy.praneeth-rdy)
-    <a href="https://github.com/praneeth-rdy/"><img src="https://img.shields.io/github/followers/praneeth-rdy?style=social"/></a>
-    <a href="https://github.com/praneeth-rdy?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
-    <a href="https://praneeth-rdy.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
+    <a href="https://github.com/surajgupta3072/"><img src="https://img.shields.io/github/followers/surajgupta3072?style=social"/></a>
+    <a href="https://github.com/surajgupta3072?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+<!--     <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/> -->
+    <a href="https://surajgupta3072.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fsurajgupta3072.github.io%2F"/></a>
 </p>
 
 
@@ -52,12 +52,12 @@ I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack develope
 
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=surajgupta3072&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgupta3072&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=surajgupta3072&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="suraj"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgupta3072&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="suraj" />
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgupta3072&theme=tokyonight_duo&hide_border=false" alt="Praneeth-rdy's readme streaks" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgupta3072&theme=tokyonight_duo&hide_border=false" alt="Suraj's readme streaks" />
 </p>
 
 <br/><br/>
