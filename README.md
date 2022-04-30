@@ -48,16 +48,11 @@ I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack develope
   <img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/> -->
 </p>
 
-<br/>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/praneeth" ><img width="200px" src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/BMC.svg" alt="praneeth | bmc"/><a>
-</p>
-
 
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=praneeth-rdy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth-rdy&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=surajgupta3072&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgupta3072&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth" />
 </p>
 
 <p align="center">
