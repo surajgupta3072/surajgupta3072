@@ -52,7 +52,7 @@ I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack develope
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=surajgupta3072&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgupta3072&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgupta3072&layout=compact&theme=vision-friendly-dark" alt="praneeth" />
 </p>
 
 <p align="center">
