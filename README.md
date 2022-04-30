@@ -7,9 +7,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=praneeth-rdy.praneeth-rdy)
     <a href="https://github.com/surajgupta3072/"><img src="https://img.shields.io/github/followers/surajgupta3072?style=social"/></a>
     <a href="https://github.com/surajgupta3072?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-<!--     <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/> -->
-    <a href="https://praneeth-rdy.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
+    <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
+    <a href="https://surajgupta3072.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
 </p>
+
 
 
 I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack developer. I love contributing to open source projects, and I am ever ready to learn more. I always strive to develop applications which add value to people's lives. I believe in the quote, *"Success is not how much money you make, it is how much difference you bring in people's lives"*
