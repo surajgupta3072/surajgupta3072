@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Suraj Gupta.
-### I am a passionate learner and a full stack developer.
+### I am a passionate Learner and a Full Stack Developer.
 ![cover photo](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg)
 
 <p>
@@ -13,7 +13,7 @@
 
 
 
-I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack developer. I love contributing to projects, and I am ever ready to learn more. I always strive to develop applications which add value to people's lives. I believe in the quote, *"Success is not how much money you make, it is how much difference you bring in people's lives"*
+I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack developer. I love working on projects, trying my best to implement as innovative ideas as possible. In this path, I try to learn the most out of the problems that arise. I believe in the quote, *"A developer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away"*
 
 - 🔭 I keep learning new things and often read books.
 - 💬 Talk with me about technology, finance and entrepreneurship.
