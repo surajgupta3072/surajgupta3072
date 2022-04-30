@@ -56,7 +56,7 @@ I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack develope
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgupta3072&theme=tokyonight_duo&hide_border=false" alt="Praneeth-rdy's readme streaks" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgupta3072&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="Praneeth-rdy's readme streaks" />
 </p>
 
 <br/><br/>
