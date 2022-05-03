@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Suraj Gupta.
 ### I am a passionate Learner and a Full Stack Developer.
-![cover photo](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg)
 
 <p>
 
