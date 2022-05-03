@@ -8,7 +8,6 @@
     <a href="https://github.com/surajgupta3072/"><img src="https://img.shields.io/github/followers/surajgupta3072?style=social"/></a>
     <a href="https://github.com/surajgupta3072?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
-    <a href="https://surajgupta3072.github.io/myportfolio/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
 </p>
 
 
@@ -16,7 +15,7 @@
 I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack developer. I love working on projects, trying my best to implement as innovative ideas as possible. In this path, I try to learn the most out of the problems that arise. I believe in the quote, *"A developer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away"*
 
 - 🔭 I keep learning new things and often read books.
-- 💬 Talk with me about technology, finance and entrepreneurship.
+- 💬 Talk with me about technology, space and economics.
 - 🌱 Trying to [live asynchronously](https://www.freecodecamp.org/news/live-asynchronously-c8e7172fe7ea/).
 - ⚡ Looking forward for interesting collaborations.
 
