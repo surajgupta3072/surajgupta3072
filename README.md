@@ -15,7 +15,7 @@ I am a second year undergrad at IIT Kharagpur. I am a hybrid full stack develope
 
 - 🔭 I keep learning new things and often read books.
 - 💬 Talk with me about technology, space and economics.
-- 🌱 Trying to [live asynchronously](https://www.freecodecamp.org/news/live-asynchronously-c8e7172fe7ea/).
+- 🌱 Passsionate on a startup culture.
 - ⚡ Looking forward for interesting collaborations.
 
 <h2><b>💻 Tech Stack</b></h2>
