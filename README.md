@@ -3,7 +3,6 @@
 ### 🚀 Aspiring Data Scientist and Full Stack Developer
 
 <p>
-![](https://visitor-badge.glitch.me/badge?page_id=surajgupta3072.surajgupta3072)
 <a href="https://github.com/surajgupta3072/"><img src="https://img.shields.io/github/followers/surajgupta3072?style=social"/></a>
 <a href="https://github.com/surajgupta3072?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
