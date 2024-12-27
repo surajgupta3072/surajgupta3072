@@ -51,7 +51,6 @@ I'm a final-year undergraduate at IIT Kharagpur with a passion for leveraging te
 
 <h2><b>⚡ GitHub Stats</b></h2>
 <p align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=surajgupta3072&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="GitHub Stats"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgupta3072&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="Top Languages"/>
 </p>
 
